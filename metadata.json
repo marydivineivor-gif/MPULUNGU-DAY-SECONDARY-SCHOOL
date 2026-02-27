@@ -1,0 +1,7 @@
+{
+  "name": "MPULUNGU DAY SECONDARY SCHOOL",
+  "description": "A comprehensive school administration platform featuring modules for student and teacher management, fee tracking, enrollment analytics, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
